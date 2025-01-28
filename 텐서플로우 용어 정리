@@ -1,3 +1,0 @@
-    * epochs: 학습 반복 횟수
-    * batch_size: 학습 시 한번에 들어가는 데이터의 크기
-    * validation_split: train_set에서 몇 %를 검증 set으로 분리할지 결정
